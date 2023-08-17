@@ -1,0 +1,19 @@
+{
+  "kind": "storage#object",
+  "id": "cc-asg2-frontend_test/62b1905a45a49/1655803994523312",
+  "selfLink": "https://www.googleapis.com/storage/v1/b/cc-asg2-frontend_test/o/62b1905a45a49",
+  "mediaLink": "https://content-storage.googleapis.com/download/storage/v1/b/cc-asg2-frontend_test/o/62b1905a45a49?generation=1655803994523312&alt=media",
+  "name": "62b1905a45a49",
+  "bucket": "cc-asg2-frontend_test",
+  "generation": "1655803994523312",
+  "metageneration": "1",
+  "contentType": "application/octet-stream",
+  "storageClass": "STANDARD",
+  "size": "121",
+  "md5Hash": "FQDGr5RIFi4jprtalpIjBA==",
+  "crc32c": "rgqdjA==",
+  "etag": "CLCNpceevvgCEAE=",
+  "timeCreated": "2022-06-21T09:33:14.608Z",
+  "updated": "2022-06-21T09:33:14.608Z",
+  "timeStorageClassUpdated": "2022-06-21T09:33:14.608Z"
+}
